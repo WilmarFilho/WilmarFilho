@@ -1,5 +1,5 @@
 
-<h2> Olá, sou Wilmar Filho e sou um desenvolvedor web full stack</h2>
+<h2> Olá, sou Wilmar Filho e sou um desenvolvedor web atualmente trabalhando como Analista de Sistemas</h2>
 <hr>
 
 <div>
