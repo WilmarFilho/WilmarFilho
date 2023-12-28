@@ -1,5 +1,5 @@
 
-<h2> Prazer, me chamo Wilmar Filho, estudadente de Ciências da Computação e atualmente trabalho como desenvolvedor web</h2>
+<h2> Prazer, me chamo Wilmar Filho, estudante de Ciências da Computação e atualmente trabalho como desenvolvedor web</h2>
 <hr>
 
 <div>
