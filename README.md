@@ -1,5 +1,5 @@
 
-<h2> Olá, sou Wilmar Filho e sou um desenvolvedor web atualmente trabalhando como Analista de Sistemas</h2>
+<h2> Prazer, me chamo Wilmar Filho, estudadente de Ciências da Computação e atualmente trabalho como desenvolvedor web</h2>
 <hr>
 
 <div>
