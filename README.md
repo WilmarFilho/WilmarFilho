@@ -1,5 +1,5 @@
 
-<h2> Prazer, me chamo Wilmar Filho, estudante de Ciências da Computação e atualmente trabalho como desenvolvedor web</h2>
+<h2> Eu sou Wilmar, e minha paixão é traduzir visões em soluções digitais que geram impacto real. Cada pessoa enfrenta desafios únicos, e minha missão é ser o parceiro que você precisa. Com uma abordagem que combina criatividade, tecnologia e foco em resultados, construo experiências digitais que não apenas encantam, mas também impulsionam o crescimento da sua marca, atraem mais clientes e otimizam suas operações. </h2>
 <hr>
 
 <div>
