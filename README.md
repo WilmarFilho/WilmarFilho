@@ -39,7 +39,7 @@ Atuo como parceiro estratégico, unindo **criatividade, tecnologia e foco em res
 
 ## 🧑‍💻 GitHub
 
-<img src="https://raw.githubusercontent.com/WilmarFilho/WilmarFilho/main/github-metrics.svg" />
+<img src="https://raw.githubusercontent.com/WilmarFilho/main/github-metrics.svg" />
 
 ## 📫 Vamos conversar?
 - 💼 Aberto a projetos, freelas e parcerias
