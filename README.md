@@ -1,12 +1,9 @@
-<!-- Banner opcional -->
-<!-- ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Wilmar%20Filho&fontSize=40&fontColor=ffffff) -->
-
-# 👋 Olá, eu sou o Wilmar Filho
+# Prazer, eu sou o Wilmar Filho
 
 Sou **Desenvolvedor Full Stack** apaixonado por transformar ideias em **soluções digitais que geram impacto real**.  
 Atuo como parceiro estratégico, unindo **criatividade, tecnologia e foco em resultados**, entregando produtos modernos, escaláveis e centrados no usuário.
 
----
+
 
 ## 🚀 O que eu faço
 - Desenvolvimento **Full Stack**
@@ -54,8 +51,8 @@ Atuo como parceiro estratégico, unindo **criatividade, tecnologia e foco em res
 ## ⭐ GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WilmarFilho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilmarFilho&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -63,7 +60,7 @@ Atuo como parceiro estratégico, unindo **criatividade, tecnologia e foco em res
 ## 🌟 GitHub Stars & Contribuições
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WilmarFilho&theme=tokyonight" />
 </p>
 
 ---
