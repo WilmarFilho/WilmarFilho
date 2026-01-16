@@ -29,20 +29,3 @@ Atuo como parceiro estratégico, unindo **criatividade, tecnologia e foco em res
   <img src="https://skillicons.dev/icons?i=docker,git,github" />
 </p>
 
-## 🌟 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias | Status |
-|------|---------|------------|--------|
-| **Memories** | Plataforma para registrar momentos importantes com páginas personalizadas, fotos e QR Code | React, Node, Supabase | 🚧 Em desenvolvimento |
-| **Chat IA Acessível** | Chat inteligente focado em acessibilidade para pessoas com dificuldades tecnológicas | React, NestJS, IA | 🚀 MVP |
-| **Sistema de Disparo de Boletos** | Automação de envio de boletos via leitura de PDFs e identificação por registro único | Node, Docker, MySQL | ✅ Concluído |
-
-## 🧑‍💻 GitHub
-
-<img src="https://raw.githubusercontent.com/WilmarFilho/main/github-metrics.svg" />
-
-## 📫 Vamos conversar?
-- 💼 Aberto a projetos, freelas e parcerias
-- 🚀 Sempre buscando criar produtos que resolvem problemas reais
-
-⭐ *Se algum projeto te ajudou ou chamou atenção, considere deixar uma estrela!*
