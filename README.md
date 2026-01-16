@@ -43,18 +43,12 @@ Atuo como parceiro estratégico, unindo **criatividade, tecnologia e foco em res
 
 ## ⭐ GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WilmarFilho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilmarFilho&layout=compact&theme=tokyonight" />
-</p>
+## 🧑‍💻 GitHub
 
----
+![Followers](https://img.shields.io/github/followers/SEU_USERNAME?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=SEU_USERNAME&style=for-the-badge)
 
-## 🌟 GitHub Stars & Contribuições
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WilmarFilho&theme=tokyonight" />
-</p>
+<img src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/main/github-metrics.svg" />
 
 ---
 
