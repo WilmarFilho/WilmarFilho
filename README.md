@@ -3,18 +3,11 @@
 Sou **Desenvolvedor Full Stack** apaixonado por transformar ideias em **soluções digitais que geram impacto real**.  
 Atuo como parceiro estratégico, unindo **criatividade, tecnologia e foco em resultados**, entregando produtos modernos, escaláveis e centrados no usuário.
 
-
-
-## 🚀 O que eu faço
 - Desenvolvimento **Full Stack**
 - Criação de interfaces modernas e intuitivas
 - Arquitetura de APIs e backends escaláveis
 - Integrações com bancos de dados e cloud
 - Prototipação, validação e evolução de produtos digitais
-
----
-
-## 🧠 Tech Stack
 
 ### 🎨 Frontend
 <p>
