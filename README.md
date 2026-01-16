@@ -29,8 +29,6 @@ Atuo como parceiro estratégico, unindo **criatividade, tecnologia e foco em res
   <img src="https://skillicons.dev/icons?i=docker,git,github" />
 </p>
 
----
-
 ## 🌟 Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias | Status |
@@ -39,18 +37,9 @@ Atuo como parceiro estratégico, unindo **criatividade, tecnologia e foco em res
 | **Chat IA Acessível** | Chat inteligente focado em acessibilidade para pessoas com dificuldades tecnológicas | React, NestJS, IA | 🚀 MVP |
 | **Sistema de Disparo de Boletos** | Automação de envio de boletos via leitura de PDFs e identificação por registro único | Node, Docker, MySQL | ✅ Concluído |
 
----
-
-## ⭐ GitHub Stats
-
 ## 🧑‍💻 GitHub
 
-![Followers](https://img.shields.io/github/followers/SEU_USERNAME?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USERNAME&style=for-the-badge)
-
-<img src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/main/github-metrics.svg" />
-
----
+<img src="https://raw.githubusercontent.com/WilmarFilho/WilmarFilho/main/github-metrics.svg" />
 
 ## 📫 Vamos conversar?
 - 💼 Aberto a projetos, freelas e parcerias
