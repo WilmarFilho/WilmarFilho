@@ -1,66 +1,75 @@
+<!-- Banner opcional -->
+<!-- ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Wilmar%20Filho&fontSize=40&fontColor=ffffff) -->
+
 # 👋 Olá, eu sou o Wilmar Filho
 
-Sou **Desenvolvedor Full Stack** e minha paixão é transformar visões em **soluções digitais que geram impacto real**.  
-Acredito que cada desafio é único — por isso, atuo como um parceiro estratégico, unindo **criatividade, tecnologia e foco em resultados**.
-
-Atualmente trabalho construindo **aplicações web modernas, escaláveis e centradas no usuário**, desde a concepção do design até a implementação e deploy.
+Sou **Desenvolvedor Full Stack** apaixonado por transformar ideias em **soluções digitais que geram impacto real**.  
+Atuo como parceiro estratégico, unindo **criatividade, tecnologia e foco em resultados**, entregando produtos modernos, escaláveis e centrados no usuário.
 
 ---
 
 ## 🚀 O que eu faço
-
-- Desenvolvimento de aplicações **Full Stack**
-- Criação de interfaces modernas e funcionais
+- Desenvolvimento **Full Stack**
+- Criação de interfaces modernas e intuitivas
 - Arquitetura de APIs e backends escaláveis
-- Integração com bancos de dados e serviços em nuvem
-- Prototipação e validação de ideias digitais
+- Integrações com bancos de dados e cloud
+- Prototipação, validação e evolução de produtos digitais
 
 ---
 
-## 🧠 Tech Stack & Skills
+## 🧠 Tech Stack
 
 ### 🎨 Frontend
-- React  
-- Next.js  
-- HTML5 | CSS3 | JavaScript | TypeScript  
-- Figma (UI/UX)  
-- Framer (prototipação e motion)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,next,ts,js,html,css,figma,framer" />
+</p>
 
 ### ⚙️ Backend
-- Node.js  
-- NestJS  
-- APIs REST  
-- Autenticação e autorização
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+</p>
 
 ### 🗄️ Banco de Dados
-- MySQL  
-- PostgreSQL  
-- Supabase
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
+</p>
 
-### ☁️ DevOps & Infra
-- Docker  
-- Versionamento com Git & GitHub  
-- Deploy e ambientes containerizados
+### ☁️ DevOps & Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github" />
+</p>
 
 ---
 
 ## 🌟 Projetos em Destaque
 
-| Projeto | Descrição | Tecnologias | Link |
-|------|---------|------------|------|
-| **Memories** | Plataforma para registrar momentos importantes com páginas personalizadas e QR Code | React, Node, Supabase | 🔗 Em breve |
-| **Chat IA Acessível** | Chat inteligente focado em acessibilidade para pessoas com dificuldades tecnológicas | React, NestJS, IA | 🔗 Em breve |
-| **Sistema de Disparo de Boletos** | Automação de envio de boletos via leitura de PDFs e identificação por registro único | Node, Docker, MySQL | 🔗 Em breve |
+| Projeto | Descrição | Tecnologias | Status |
+|------|---------|------------|--------|
+| **Memories** | Plataforma para registrar momentos importantes com páginas personalizadas, fotos e QR Code | React, Node, Supabase | 🚧 Em desenvolvimento |
+| **Chat IA Acessível** | Chat inteligente focado em acessibilidade para pessoas com dificuldades tecnológicas | React, NestJS, IA | 🚀 MVP |
+| **Sistema de Disparo de Boletos** | Automação de envio de boletos via leitura de PDFs e identificação por registro único | Node, Docker, MySQL | ✅ Concluído |
 
-> 💡 *Os links podem ser atualizados conforme os repositórios forem públicos.*
+---
+
+## ⭐ GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌟 GitHub Stars & Contribuições
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Vamos conversar?
-
-- 💼 Aberto a projetos, parcerias e novas ideias
-- 🌐 Transformando ideias em produtos digitais reais
-
----
+- 💼 Aberto a projetos, freelas e parcerias
+- 🚀 Sempre buscando criar produtos que resolvem problemas reais
 
 ⭐ *Se algum projeto te ajudou ou chamou atenção, considere deixar uma estrela!*
